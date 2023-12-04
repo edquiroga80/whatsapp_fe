@@ -1,12 +1,7 @@
-import { ChatIcon } from './svg';
+import { CallIcon } from "./svg";
 
 function App() {
-  return (
-    <div>
-      <h1>Front End</h1>
-      <ChatIcon />
-    </div>
-  );
+  return <div className="dark"></div>;
 }
 
 export default App;
